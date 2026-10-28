@@ -8,7 +8,7 @@
 
 | 13MW23 | Test | TempColor |
 | --- | --- | --- |
-| ![13MW23](examples/13MW23.gif) | ![Test](examples/Test.gif) | ![TempColor](examples/TempColor.gif) |
+| ![13MW23](gif/13MW23.gif) | ![Test](gif/Test.gif) | ![TempColor](gif/TempColor.gif) |
 
 ## 安装到 AWTRIX 2 Docker
 
