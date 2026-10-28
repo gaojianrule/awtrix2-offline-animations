@@ -6,7 +6,7 @@
 
 以下示例均来自本项目的本地 GIF 库；实际显示到 AWTRIX 时会自动缩放至 32 × 8 像素。
 
-| ![13MW23](gif/EVANAME.gif) | ![Test](gif/Test.gif) | ![TempColor](gif/TempColor.gif) |
+ ![13MW23](gif/EVANAME.gif)  ![Test](gif/Test.gif)  ![TempColor](gif/TempColor.gif) 
 
 ## 安装到 AWTRIX 2 Docker
 
